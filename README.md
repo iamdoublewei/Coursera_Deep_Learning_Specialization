@@ -6,4 +6,4 @@
 ### Course 3: Structuring Machine Learning Projects
 ### Course 4: Convolutional Neural Networks
 ### Course 5: Sequence Models
-### [Certificate]()
+### [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ELECTPGKS4LN)
